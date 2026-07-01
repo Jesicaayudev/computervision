@@ -1,0 +1,18 @@
+{
+  "SVM_HOG": {
+    "akurasi": 0.6096,
+    "precision": 0.711,
+    "recall": 0.6096,
+    "f1_score": 0.5894,
+    "waktu_training_s": 12.97,
+    "waktu_inferensi_ms": 2.6806
+  },
+  "CNN": {
+    "akurasi": 0.8493,
+    "precision": 0.8748,
+    "recall": 0.8493,
+    "f1_score": 0.8265,
+    "waktu_training_s": 569.04,
+    "waktu_inferensi_ms": 9.1005
+  }
+}

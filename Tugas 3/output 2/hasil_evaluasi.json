@@ -1,0 +1,29 @@
+{
+  "SVM_HOG": {
+    "akurasi": 0.589,
+    "precision_weighted": 0.6663,
+    "recall_weighted": 0.589,
+    "f1_score_weighted": 0.5768,
+    "f1_score_macro": 0.5084,
+    "waktu_training_s": 13.56,
+    "waktu_inferensi_ms": 4.1063
+  },
+  "SVM_HSV": {
+    "akurasi": 0.9521,
+    "precision_weighted": 0.9554,
+    "recall_weighted": 0.9521,
+    "f1_score_weighted": 0.9519,
+    "f1_score_macro": 0.9462,
+    "waktu_training_s": 0.09,
+    "waktu_inferensi_ms": 0.0548
+  },
+  "CNN": {
+    "akurasi": 0.8699,
+    "precision_weighted": 0.8811,
+    "recall_weighted": 0.8699,
+    "f1_score_weighted": 0.8603,
+    "f1_score_macro": 0.735,
+    "waktu_training_s": 952.56,
+    "waktu_inferensi_ms": 18.2998
+  }
+}

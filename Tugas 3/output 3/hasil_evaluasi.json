@@ -1,0 +1,20 @@
+{
+  "SVM_HOG_ROI_HSV": {
+    "akurasi": 0.9658,
+    "precision_weighted": 0.9682,
+    "recall_weighted": 0.9658,
+    "f1_score_weighted": 0.9657,
+    "f1_score_macro": 0.9643,
+    "waktu_training_s": 0.13,
+    "waktu_inferensi_ms": 0.0522
+  },
+  "CNN": {
+    "akurasi": 0.4247,
+    "precision_weighted": 0.5382,
+    "recall_weighted": 0.4247,
+    "f1_score_weighted": 0.3809,
+    "f1_score_macro": 0.2755,
+    "waktu_training_s": 455.69,
+    "waktu_inferensi_ms": 18.1855
+  }
+}
